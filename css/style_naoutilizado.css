@@ -1,0 +1,37 @@
+form{
+	
+	
+	margin: 10px;
+}
+
+form label{
+	display: block;
+}
+
+form input[type=text]{
+	
+	width: 250px;
+	border: 1px solid ;
+	padding: 5px;
+}
+form input[type=password]{
+	
+	width: 150px;
+	border: 1px solid ;
+	padding: 5px;
+}
+
+form input[type=submit]{
+	cursor:pointer;
+	display:block;
+	margin-top:10px;
+	border: 1px solid ;
+	padding: 5px;
+}
+form button{
+	cursor:pointer;
+	display:block;
+	margin-top:10px;
+	border: 1px solid ;
+	padding: 5px;
+}

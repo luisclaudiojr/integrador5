@@ -1,0 +1,30 @@
+/*
+.dataTables_filter {
+	margin: 0px;
+	
+	padding: 4px;
+	border: 0px;
+	right: 60px;
+	display: inline;
+	position: absolute;
+	left: 150px;
+	height: 100%;
+overflow: hidden;
+color: rgba(0,0,0,0.3);
+font-size: 17px;
+padding-left: 0px;
+line-height: 21px;
+}
+*/
+
+
+
+.fg-toolbar input {
+		position: fixed;
+top: 13px;
+left: 291px;
+z-index: 1000;
+width: 523px;
+border-top-right-radius: 0;
+border-bottom-right-radius: 0;
+}
